@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abel Tiruneh
 ====================================================================================================================================
 
-💻 **Full-Stack Developer** | 🎮 **Game Developer** | 🛡️ **Cyber Security Learner**  
+💻 **Full-Stack Developer** | 🎮 **Game Developer** | 🎨 **3D Artist**  
 📍 **Hawassa, Ethiopia** | ☕ **Fueled by _buna_ and code**
 
 ---
 
 ### 🔥 About Me
-21 | CS Student + Aspiring Cyber Warrior  
+21 | CS Student at Infolink University College  
 💻 By day: Computer Science student coding his way through algorithms  
-🛡️ By night: Future cybersecurity expert (currently hacking away at Hack The Box)  
-🌍 By blood: Proud Ethiopian tech enthusiast—bringing _buna_ (coffee) and code together since 2002  
+🎮 By night: Building 2D games in Godot and 3D worlds in Blender  
+🌍 By blood: Proud Ethiopian tech enthusiast — bringing _buna_ (coffee) and code together since 2002  
 
 **Fun Fact:** I can recite the entire "Hello World" syntax in 7 languages... while asleep.
 
@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### 🛠️ Tech Stack
 
-#### **Programming Languages**  
+#### **Programming Languages**
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" height="24" style="margin: 0 2px"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="24" style="margin: 0 2px"/>
@@ -30,18 +30,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="24" style="margin: 0 2px"/>
 </div>
 
-#### **Web Development**  
+#### **Web Development**
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="24" style="margin: 0 2px"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="24" style="margin: 0 2px"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="24" style="margin: 0 2px"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="24" style="margin: 0 2px"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="24" style="margin: 0 2px"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="24" style="margin: 0 2px"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="24" style="margin: 0 2px"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" height="24" style="margin: 0 2px"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" height="24" style="margin: 0 2px"/>
 </div>
 
-#### **Databases & Cloud**  
+#### **Databases & Cloud**
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="24" style="margin: 0 2px"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="24" style="margin: 0 2px"/>
@@ -50,31 +52,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="24" style="margin: 0 2px"/>
 </div>
 
-#### **Game Development**  
+#### **Game Dev & 3D Art**
 <div>
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unreal-engine&logoColor=white" height="24" style="margin: 0 2px"/>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black" height="24" style="margin: 0 2px"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white" height="24" style="margin: 0 2px"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" height="24" style="margin: 0 2px"/>
 </div>
-
-#### **Cyber Security Tools**  
-<div>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white" height="24" style="margin: 0 2px"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" height="24" style="margin: 0 2px"/>
-  <img src="https://img.shields.io/badge/Metasploit-000000?logo=metasploit&logoColor=white" height="24" style="margin: 0 2px"/>
-</div>
-
----
-
-### 🚀 Current Projects
-#### **🌐 HawassaPay**  
-Digital payment prototype for local vendors  
-**Tech:** React + Node.js + PostgreSQL  
-**Goal:** Make street-side _sambusa_ transactions as smooth as _tej_
-
-#### **🛡️ CyberSec Labs**  
-Learning penetration testing  
-**Tools:** Kali Linux + Wireshark + Metasploit
 
 ---
 
@@ -97,4 +79,4 @@ Learning penetration testing
   </a>
 </p>
 
-> _"In Ethiopia, we've got 13 months of sunshine—I'm adding a 14th: the light of innovation."_ 🇪🇹💻
+> _"In Ethiopia, we've got 13 months of sunshine — I'm adding a 14th: the light of innovation."_ 🇪🇹💻
