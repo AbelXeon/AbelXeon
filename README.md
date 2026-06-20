@@ -2,19 +2,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 💻 **Full-Stack Developer** | 🎮 **Game Developer** | 🎨 **3D Artist**  
-📍 **Hawassa, Ethiopia** | ☕ **Fueled by _buna_ and code**
-
----
+📍 **Hawassa, Ethiopia** 
 
 ### 🔥 About Me
-21 | CS Student at Infolink University College  
-💻 By day: Computer Science student coding his way through algorithms  
-🎮 By night: Building 2D games in Godot and 3D worlds in Blender  
-🌍 By blood: Proud Ethiopian tech enthusiast — bringing _buna_ (coffee) and code together since 2002  
 
-**Fun Fact:** I can recite the entire "Hello World" syntax in 7 languages... while asleep.
+21 | Computer Science student at Infolink University College, Hawassa, Ethiopia.
 
----
+I’m a full-stack developer focused on building functional and scalable web applications while continuously improving my problem-solving and software engineering skills.
+
+I work across both frontend and backend development, and I’m actively expanding my experience through personal and academic projects.
+
+Outside of web development, I also explore game development with Godot and 3D modeling using Blender, mainly for learning and experimentation.
+
+My focus is simple: build real projects, improve consistently, and become strong in both frontend and backend engineering.
 
 ### 🛠️ Tech Stack
 
@@ -39,8 +39,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="24" style="margin: 0 2px"/>
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="24" style="margin: 0 2px"/>
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="24" style="margin: 0 2px"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" height="24" style="margin: 0 2px"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" height="24" style="margin: 0 2px"/>
 </div>
 
 #### **Databases & Cloud**
@@ -48,8 +46,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="24" style="margin: 0 2px"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="24" style="margin: 0 2px"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="24" style="margin: 0 2px"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" height="24" style="margin: 0 2px"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="24" style="margin: 0 2px"/>
 </div>
 
 #### **Game Dev & 3D Art**
@@ -79,4 +75,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </a>
 </p>
 
-> _"In Ethiopia, we've got 13 months of sunshine — I'm adding a 14th: the light of innovation."_ 🇪🇹💻
