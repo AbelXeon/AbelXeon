@@ -7,9 +7,9 @@
 
 ### About
 
-I'm 21, studying Computer Science at Infolink University College in Hawassa, and I work across both ends of the stack — backend logic and database design on one side, interfaces on the other. I'd rather understand how something actually works than just get it running, which is usually why a "quick fix" takes me a bit longer than it should.
+I'm 21, studying Computer Science at Infolink University College in Hawassa, and I work across both ends of the stack. backend logic and database design on one side, interfaces on the other. I'd rather understand how something actually works than just get it running, which is usually why a "quick fix" takes me a bit longer than it should.
 
-Outside of web development, I spend time in Godot working through game mechanics, and in Blender picking up 3D modeling — mostly to keep building things in a different medium when I want a break from the browser.
+Outside of web development, I spend time in Godot working through game mechanics, and in Blender picking up 3D modeling. mostly to keep building things in a different medium when I want a break from the browser.
 
 I'm at the stage where I'm deliberately trying to get stronger on both sides of full-stack work rather than leaning on whichever half is more comfortable, and I learn best by finishing real projects rather than tutorials.
 
