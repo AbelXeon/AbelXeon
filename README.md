@@ -70,10 +70,18 @@ I'm at the stage where I'm deliberately trying to get stronger on both sides of 
 ### GitHub Stats
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
- <img src="https://github-readme-stats-ashen-one-38.vercel.app/api?username=abelXeon&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-stats-ashen-one-38.vercel.app/api/top-langs/?username=abelXeon&layout=compact&theme=dark" width="48%"/>
-<img src="https://github-readme-stats-ashen-one-38.vercel.app/api/streak?username=abelXeon&theme=dark" width="100%"/></div>
+  <img src="https://github-readme-stats-ashen-one-38.vercel.app/api?username=abelXeon&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats-ashen-one-38.vercel.app/api/top-langs/?username=abelXeon&layout=compact&theme=dark" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelXeon&theme=dark" width="100%"/>
 
+  <img src="https://github-profile-trophy.vercel.app/?username=abelXeon&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abelXeon&theme=react-dark"/>
+  <img src="https://raw.githubusercontent.com/abelXeon/abelXeon/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abelXeon&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abelXeon&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abelXeon&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abelXeon&theme=github_dark"/>
+</div>
 ---
 
 ### Contact
