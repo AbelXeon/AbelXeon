@@ -72,7 +72,7 @@ I'm at the stage where I'm deliberately trying to get stronger on both sides of 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
  <img src="https://github-readme-stats-ashen-one-38.vercel.app/api?username=abelXeon&show_icons=true&theme=radical" width="48%"/>
 <img src="https://github-readme-stats-ashen-one-38.vercel.app/api/top-langs/?username=abelXeon&layout=compact&theme=dark" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelXeon&theme=dark" width="100%"/>
+  <img src="https://github-readme-stats-ashen-one-38.vercel.app/?user=abelXeon&theme=dark" width="100%"/>
 </div>
 
 ---
