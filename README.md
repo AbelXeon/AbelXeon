@@ -1,4 +1,21 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abel%20Tiruneh&fontSize=62&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Cybersecurity%20%C2%B7%20Hawassa,%20Ethiopia&descAlignY=60&descSize=18&fontColor=ffffff"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Computer+Science+Student;Linux+%7C+Kali+%7C+Cybersecurity;Building+real+projects%2C+not+tutorials" alt="Typing SVG"/>
+</a>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100%"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=abelXeon&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/abelXeon?style=for-the-badge&logo=github&color=181717"/>
+
+</div>
 
 # Abel Tiruneh
 
@@ -14,11 +31,27 @@ Outside of web development, I spend time in Godot working through game mechanics
 
 I'm at the stage where I'm deliberately trying to get stronger on both sides of full-stack work rather than leaning on whichever half is more comfortable, and I learn best by finishing real projects rather than tutorials.
 
+<div align="center">
+
+```bash
+┌──(abel㉿kali)-[~/hawassa]
+└─$ whoami
+abelXeon — full-stack dev · cyber enthusiast · always building
+```
+
+</div>
+
 ---
 
 # 🚀 Tech Stack
 
-### Tech Stack **Languages** <div> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="24" style="margin: 0 2px"/> </div> **Web Development** <div> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="24" style="margin: 0 2px"/> </div> **Databases & Cloud** <div> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="24" style="margin: 0 2px"/> </div> **Tools** <div> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="24" style="margin: 0 2px"/> </div> **Game Dev & 3D Art** <div> <img src="https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" height="24" style="margin: 0 2px"/> </div>
+### Tech Stack **Languages** <div> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="24" style="margin: 0 2px"/> </div> **Web Development** <div> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="24" style="margin: 0 2px"/> </div> **Databases & Cloud** <div> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="24" style="margin: 0 2px"/> </div> **Cybersecurity & Linux** <div> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?logo=gnuprivacyguard&logoColor=00FF41" height="24" style="margin: 0 2px"/> </div> **Tools** <div> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="24" style="margin: 0 2px"/> </div> **Game Dev & 3D Art** <div> <img src="https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white" height="24" style="margin: 0 2px"/> <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" height="24" style="margin: 0 2px"/> </div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,php,html,css,react,nextjs,laravel,nodejs,express,flask,mysql,postgres,mongodb,linux,kali,git,github,godot,blender&perline=9" />
+
+</div>
 
 ---
 
@@ -116,3 +149,13 @@ I'm at the stage where I'm deliberately trying to get stronger on both sides of 
 <a href="https://github.com/abelXeon">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="24"/>
 </a>
+
+<div align="center">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=557C94&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+great+together" alt="Footer typing"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
