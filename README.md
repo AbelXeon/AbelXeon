@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abel%20Tiruneh&fontSize=62&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Cybersecurity%20%C2%B7%20Hawassa,%20Ethiopia&descAlignY=60&descSize=18&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Abel%20Tiruneh&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Computer+Science+Student;Linux+%7C+Kali+%7C+Cybersecurity;Building+real+projects%2C+not+tutorials" alt="Typing SVG"/>
-</a>
+<img src="assets/pixel-fall.svg" width="100%"/>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>
 
 <br><br>
 
@@ -154,8 +152,8 @@ abelXeon — full-stack dev · cyber enthusiast · always building
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=557C94&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+great+together" alt="Footer typing"/>
+<img src="assets/pixel-fall.svg" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer"/>
 
 </div>
